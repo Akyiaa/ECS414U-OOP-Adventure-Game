@@ -6,14 +6,14 @@ Received a 100% score, with feedback "An excellent submission" from the lead lec
 
 # Instructions
 1. You would need to have Java pre-installed
-2. Download the Git Repository
+2. Download the GitHub Repository
 
 If you are using the Terminal Skip to Step 7
 
---Using an IDE--
+--Using an IDE (Recommended)--
 
 3. In your preferred IDE, click File -> Open Folder
-4. Chose the downloaded folder
+4. Choose the downloaded folder
 5. The folder should appear in your IDE and all files should be visible
 6. Run the main file, Game
 
