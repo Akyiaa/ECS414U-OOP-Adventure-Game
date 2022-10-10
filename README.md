@@ -10,14 +10,14 @@ Received a 100% score, with feedback "An excellent submission" from the lead lec
 
 If you are using the Terminal Skip to Step 7
 
---Using an IDE (Recommended)--
+## 👍Using an IDE (Recommended)
 
 3. In your preferred IDE, click File -> Open Folder
 4. Choose the downloaded folder
 5. The folder should appear in your IDE and all files should be visible
 6. Run the main file, Game
 
---Using the Terminal--
+## 🔋Using the Terminal
 
 7. Navigate to the location of your downloaded file using cd
   Eg. If the downloaded folder is in Downloads, type 'cd Downloads' in the terminal
@@ -25,4 +25,5 @@ If you are using the Terminal Skip to Step 7
 8. To run the program, type javac Game.java
 9. Press Enter
 
-Hope you enjoy it!
+
+✨Hope you enjoy it!✨
