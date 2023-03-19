@@ -1,4 +1,4 @@
-# OOPCoursework-Game
+# OOP Adventure Game
  Game made with Java for 1st Year Object-Oriented Programming module coursework.
 
 # Achievement
